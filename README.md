@@ -4,4 +4,4 @@
 
 ## Module 1
 * [Arrays & Iteration (Hashketball)](https://www.youtube.com/watch?v=WzYLcmShd3E) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/01-hashketball-review)
-* [Hashesh & the Internet](https://youtu.be/iaH4HkYHfW0) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/02-hashes-and-the-internet)
+* [Hashes & the Internet](https://youtu.be/iaH4HkYHfW0) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/02-hashes-and-the-internet)
