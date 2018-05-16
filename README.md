@@ -5,3 +5,4 @@
 ## Module 1
 * [Arrays & Iteration (Hashketball)](https://www.youtube.com/watch?v=WzYLcmShd3E) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/01-hashketball-review)
 * [Hashes & the Internet](https://youtu.be/iaH4HkYHfW0) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/02-hashes-and-the-internet)
+* [Intro to Object-Oriented Programming](https://youtu.be/yx98vBrt7ps) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/03-intro-oo)
