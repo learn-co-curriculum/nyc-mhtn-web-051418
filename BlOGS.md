@@ -63,12 +63,6 @@
 * Max	Smouha
 * Kurt Bauer
 
-## Wednesday, July 4, 2018
-* Chris	Alberti
-* David	Tenenbaum
-* Ledio	Bode
-* John Burnett
-
 ## Thursday, July 5, 2018
 * Carl Anthony Reiser
 * Gregory	Schmitt
@@ -80,6 +74,12 @@
 * Aviram Cohen
 * Tony Ho
 * David Landau
+
+## Thursday, July 12, 2018
+* Chris	Alberti
+* David	Tenenbaum
+* Ledio	Bode
+* John Burnett
 
 ## Wednesday, July 11, 2018
 * Richard	Trapanese
