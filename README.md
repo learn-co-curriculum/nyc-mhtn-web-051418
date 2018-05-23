@@ -11,3 +11,4 @@
 * [Inheritance](https://youtu.be/FimLBneYXYE) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/blob/master/06-oo-inheritance/animal.rb)
 * [SQL Review](https://www.youtube.com/watch?v=GlPEg1CPcfI) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/07-intro-sql)
 * [Bridging SQL & Ruby](https://www.youtube.com/watch?v=BAFZw_mlp0Y) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/08-bridging-ruby-and-sql)
+* [ActiveRecord Intro](https://www.youtube.com/watch?v=RJksSVCPct8) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/09-active-record-intro)
