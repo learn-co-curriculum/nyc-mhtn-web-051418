@@ -12,3 +12,4 @@
 * [SQL Review](https://www.youtube.com/watch?v=GlPEg1CPcfI) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/07-intro-sql)
 * [Bridging SQL & Ruby](https://www.youtube.com/watch?v=BAFZw_mlp0Y) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/08-bridging-ruby-and-sql)
 * [ActiveRecord Intro](https://www.youtube.com/watch?v=RJksSVCPct8) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/09-active-record-intro)
+* [ActiveRecord Associations](https://www.youtube.com/watch?v=q2f5qizt-V8) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/10-active-record-associations)
