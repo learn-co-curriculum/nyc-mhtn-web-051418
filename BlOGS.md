@@ -8,7 +8,6 @@
 * Kurt Bauer
 
 ## Wednesday, May 23, 2018
-* Chris Alberti
 * David Tenenbaum
 * Ledio Bode
 * John Burnett
