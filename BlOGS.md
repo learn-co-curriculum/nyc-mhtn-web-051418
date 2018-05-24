@@ -21,7 +21,6 @@
 ## Tuesday, May 29, 2018
 * Matt Zuzolo
 * Aviram Cohen
-* Tony Ho
 * David Landau
 
 ## Wednesday, May 30, 2018
@@ -35,7 +34,6 @@
 * Kurt Bauer
 
 ## Wednesday, June 13, 2018
-* Chris	Alberti
 * David	Tenenbaum
 * Ledio	Bode
 * John Burnett
@@ -49,7 +47,6 @@
 ## Tuesday, June 19, 2018
 * Matt Zuzolo
 * Aviram Cohen
-* Tony Ho
 * David Landau
 
 ## Wednesday, June 20, 2018
@@ -71,11 +68,9 @@
 ## Tuesday, July 10, 2018
 * Matt Zuzolo
 * Aviram Cohen
-* Tony Ho
 * David Landau
 
 ## Thursday, July 12, 2018
-* Chris	Alberti
 * David	Tenenbaum
 * Ledio	Bode
 * John Burnett
@@ -91,7 +86,6 @@
 * Kurt Bauer
 
 ## Wednesday, July 25, 2018
-* Chris	Alberti
 * David	Tenenbaum
 * Ledio	Bode
 * John Burnett
@@ -105,7 +99,6 @@
 ## Tuesday, July 31, 2018
 * Matt Zuzolo
 * Aviram Cohen
-* Tony Ho
 * David Landau
 
 ## Wednesday, August 01, 2018
@@ -119,7 +112,6 @@
 * Kurt Bauer
 
 ## Wednesday, August 15, 2018
-* Chris	Alberti
 * David	Tenenbaum
 * Ledio	Bode
 * John Burnett
@@ -133,7 +125,6 @@
 ## Tuesday, August 21, 2018
 * Matt Zuzolo
 * Aviram Cohen
-* Tony Ho
 * David Landau
 
 ## Wednesday, August 22, 2018
