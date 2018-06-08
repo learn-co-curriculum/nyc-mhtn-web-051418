@@ -13,3 +13,12 @@
 * [Bridging SQL & Ruby](https://www.youtube.com/watch?v=BAFZw_mlp0Y) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/08-bridging-ruby-and-sql)
 * [ActiveRecord Intro](https://www.youtube.com/watch?v=RJksSVCPct8) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/09-active-record-intro)
 * [ActiveRecord Associations](https://www.youtube.com/watch?v=q2f5qizt-V8) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/10-active-record-associations)
+
+## Module 2
+* [Rack and the Internet]() | [Code]()
+* [Intro to Sinatra and MVC]() | [Code]()
+* [Sinatra Forms](https://www.youtube.com/watch?v=ZPevAo6XWTg) | [Code]()
+* [RESTful Routing with Sinatra]() | [Code]()
+* [Sinatra Relationships](https://www.youtube.com/watch?v=MpdCRExFkxg&feature=youtu.be) | [Code]()
+* [Nested Params Code]()
+* [Sessions and Cookies](https://youtu.be/CHqLhGAN6b4) | [Code]()
