@@ -5,7 +5,6 @@
 * Kayla Fitzgerald
 * Alberto Carreras
 * Max	Smouha
-* Kurt Bauer
 
 ## Wednesday, May 23, 2018
 * David Tenenbaum
@@ -21,17 +20,11 @@
 ## Tuesday, May 29, 2018
 * Matt Zuzolo
 * Aviram Cohen
-* David Landau
-
-## Wednesday, May 30, 2018
-* Richard	Trapanese
-* David Zeit
 
 ## Tuesday, June 12, 2018
 * Kayla	Fitzgerald
 * Alberto	Carreras
 * Max	Smouha
-* Kurt Bauer
 
 ## Wednesday, June 13, 2018
 * David	Tenenbaum
@@ -47,43 +40,31 @@
 ## Tuesday, June 19, 2018
 * Matt Zuzolo
 * Aviram Cohen
-* David Landau
-
-## Wednesday, June 20, 2018
-* Richard	Trapanese
-* David Zeit
 
 ## Tuesday, July 3, 2018
 * Kayla	Fitzgerald
 * Alberto	Carreras
 * Max	Smouha
-* Kurt Bauer
 
 ## Thursday, July 5, 2018
 * Carl Anthony Reiser
 * Gregory	Schmitt
 * Steven Chen
-* Jordan Eckowitz
 
 ## Tuesday, July 10, 2018
 * Matt Zuzolo
 * Aviram Cohen
-* David Landau
+* Jordan Eckowitz
 
 ## Thursday, July 12, 2018
 * David	Tenenbaum
 * Ledio	Bode
 * John Burnett
 
-## Wednesday, July 11, 2018
-* Richard	Trapanese
-* David Zeit
-
 ## Tuesday, July 24, 2018
 * Kayla	Fitzgerald
 * Alberto	Carreras
 * Max	Smouha
-* Kurt Bauer
 
 ## Wednesday, July 25, 2018
 * David	Tenenbaum
@@ -94,22 +75,16 @@
 * Carl Anthony Reiser
 * Gregory	Schmitt
 * Steven Chen
-* Jordan Eckowitz
 
 ## Tuesday, July 31, 2018
 * Matt Zuzolo
 * Aviram Cohen
-* David Landau
-
-## Wednesday, August 01, 2018
-* Richard	Trapanese
-* David Zeit
+* Jordan Eckowitz
 
 ## Tuesday, August 14, 2018
 * Kayla	Fitzgerald
 * Alberto	Carreras
 * Max	Smouha
-* Kurt Bauer
 
 ## Wednesday, August 15, 2018
 * David	Tenenbaum
@@ -120,13 +95,8 @@
 * Carl Anthony Reiser
 * Gregory	Schmitt
 * Steven Chen
-* Jordan Eckowitz
 
 ## Tuesday, August 21, 2018
 * Matt Zuzolo
 * Aviram Cohen
-* David Landau
-
-## Wednesday, August 22, 2018
-* Richard	Trapanese
-* David Zeit
+* Jordan Eckowitz
