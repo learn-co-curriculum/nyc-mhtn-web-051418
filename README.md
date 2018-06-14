@@ -22,3 +22,6 @@
 * [Sinatra Relationships](https://www.youtube.com/watch?v=MpdCRExFkxg&feature=youtu.be) | [Code]()
 * [Nested Params Code]()
 * [Sessions and Cookies](https://youtu.be/CHqLhGAN6b4) | [Code]()
+* [Rails Forms & Validations](https://youtu.be/i2DCcvf969o) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/14-platypus-tracker)
+* [Rails Forms & REST](https://garbage-collectors-rest-test.herokuapp.com/) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/15-rest-test)
+* [Rails Associations & Forms](https://youtu.be/eqMrUWRpWrU) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/16-spotify)
