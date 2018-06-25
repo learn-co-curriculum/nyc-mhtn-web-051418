@@ -26,3 +26,6 @@
 * [Rails Forms & REST](https://garbage-collectors-rest-test.herokuapp.com/) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/15-rest-test)
 * [Rails Associations & Forms](https://youtu.be/eqMrUWRpWrU) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/16-spotify)
 * Rails Authentication [Part 1 (Authentication: Passwords, Hashing, and BCrypt)](https://www.youtube.com/watch?v=uiYQHrAoP3U) [Part 2 (Sessions, Cookies, and Authorization)](https://www.youtube.com/watch?v=0YCdNBeMdrA&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/17-auth)
+
+## Module 3
+* [Intro to JS](https://www.youtube.com/watch?v=dhQo5MQ7608&feature=youtu.be)
