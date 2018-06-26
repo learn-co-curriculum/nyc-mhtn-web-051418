@@ -28,4 +28,6 @@
 * Rails Authentication [Part 1 (Authentication: Passwords, Hashing, and BCrypt)](https://www.youtube.com/watch?v=uiYQHrAoP3U) [Part 2 (Sessions, Cookies, and Authorization)](https://www.youtube.com/watch?v=0YCdNBeMdrA&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/17-auth)
 
 ## Module 3
-* [Intro to JS](https://www.youtube.com/watch?v=dhQo5MQ7608&feature=youtu.be)
+* [Intro to JS](https://www.youtube.com/watch?v=dhQo5MQ7608&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/21-introduction-to-js)
+* [Scope and Closures](https://www.youtube.com/watch?v=RgbsuqG6i-4&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/22-scope-and-closures)
+* [Introduction to Functional Programming](https://www.youtube.com/watch?v=8Uaxl--09as&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/23-functional-programming)
