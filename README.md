@@ -32,3 +32,6 @@
 * [Scope and Closures](https://www.youtube.com/watch?v=RgbsuqG6i-4&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/22-scope-and-closures)
 * [Introduction to Functional Programming](https://www.youtube.com/watch?v=8Uaxl--09as&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/23-functional-programming)
 * [JS `this` keyword](https://www.youtube.com/watch?v=J6dXklI1x5I&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/24-this-keyword)
+* [The JS Prototype Chain](https://www.youtube.com/watch?v=TTnHAR0Q9Tw&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/25-prototype-chain-and-oo-js)
+* [The DOM](https://www.youtube.com/watch?v=eJUcLHcLAGw&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/26-the-dom)
+* [JS Events](https://www.youtube.com/watch?v=aWIWSzqRVFc&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/27-js-events)
