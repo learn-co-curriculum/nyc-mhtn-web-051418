@@ -35,3 +35,5 @@
 * [The JS Prototype Chain](https://www.youtube.com/watch?v=TTnHAR0Q9Tw&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/25-prototype-chain-and-oo-js)
 * [The DOM](https://www.youtube.com/watch?v=eJUcLHcLAGw&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/26-the-dom)
 * [JS Events](https://www.youtube.com/watch?v=aWIWSzqRVFc&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/27-js-events)
+* [JS Events Delegation](https://www.youtube.com/watch?v=s2MOpO0rc9o&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/28-event-delegation)
+* [AJAX](https://www.youtube.com/watch?v=N6gMtgFEiDU&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/29-ajax)
