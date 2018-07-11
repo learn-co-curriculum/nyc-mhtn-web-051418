@@ -39,3 +39,4 @@
 * [AJAX](https://www.youtube.com/watch?v=N6gMtgFEiDU&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/29-ajax)
 * [AJAX and DOM review](https://www.youtube.com/watch?v=wIgNk1ZMF_g&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/30-Ajax-and-DOM-review/js-pokemon-search-practice-assignment)
 * [Rails API](https://www.youtube.com/watch?v=5wlagxtkkgk&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/31-rails-api)
+* [Code Organization](https://www.youtube.com/watch?v=jemCY7yddq4&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/32-code-organization)
