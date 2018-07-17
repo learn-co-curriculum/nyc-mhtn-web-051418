@@ -41,3 +41,10 @@
 * [Rails API](https://www.youtube.com/watch?v=5wlagxtkkgk&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/31-rails-api)
 * [Code Organization](https://www.youtube.com/watch?v=jemCY7yddq4&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/32-code-organization)
 * [Tasklister OO refactor](https://www.youtube.com/watch?v=x30JLwmx5QM&feature=youtu.be) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/33-tasklister-OO-refactor)
+
+## Module 4
+
+1. [Intro to React](https://youtu.be/rh4Kv-GaHEM) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/34-intro-to-react)
+2. [JSX & Props](https://youtu.be/7wda4_et7CM) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/35-jsx-and-props)
+3. [State & Events](https://youtu.be/NVUuCjvJtIE) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/36-state-and-events)
+4. [State, Events, & Forms](https://youtu.be/HLZKZ-1BQis) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/37-state-events-and-forms)
