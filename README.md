@@ -49,3 +49,4 @@
 3. [State & Events](https://youtu.be/NVUuCjvJtIE) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/36-state-and-events)
 4. [State, Events, & Forms](https://youtu.be/HLZKZ-1BQis) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/37-state-events-and-forms)
 5. [More Thinking In React](https://youtu.be/RNPksg-YhW0) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/38-more-thinking-in-React)
+6. [Component Lifecycle](https://youtu.be/eu2g1_aM7RQ) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/39-component-lifecycle/foodini)
