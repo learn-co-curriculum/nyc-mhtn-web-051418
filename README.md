@@ -52,3 +52,4 @@
 6. [Component Lifecycle](https://youtu.be/eu2g1_aM7RQ) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/39-component-lifecycle/foodini)
 7. [Advanced React](https://youtu.be/Gc7JJiohuDw) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/40-react-react-react)
 8. [React Router](https://youtu.be/BnQKGzV02e4) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/41-react-router)
+9. [React Review](https://youtu.be/pMAqlGdlcjQ) | [Code (review-051418 branch)](https://github.com/hysan/react-karaoke-challenge)
