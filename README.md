@@ -53,3 +53,4 @@
 7. [Advanced React](https://youtu.be/Gc7JJiohuDw) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/40-react-react-react)
 8. [React Router](https://youtu.be/BnQKGzV02e4) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/41-react-router)
 9. [React Review](https://youtu.be/pMAqlGdlcjQ) | [Part 2](https://youtu.be/OIZgjw9Ga4w) | [Code (review-051418 branch)](https://github.com/hysan/react-karaoke-challenge) | [Code (review-051418 branch)](https://github.com/hysan/react-boardgame-review)
+10. [React JWT Auth](https://youtu.be/tbBzgaE-GJw) | [Part 2](https://youtu.be/jdVrAb9kDRE) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/43-react-jwt-auth)
