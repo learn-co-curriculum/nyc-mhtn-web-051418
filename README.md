@@ -55,3 +55,4 @@
 9. [React Review](https://youtu.be/pMAqlGdlcjQ) | [Part 2](https://youtu.be/OIZgjw9Ga4w) | [Code (review-051418 branch)](https://github.com/hysan/react-karaoke-challenge) | [Code (review-051418 branch)](https://github.com/hysan/react-boardgame-review)
 10. [React JWT Auth](https://youtu.be/tbBzgaE-GJw) | [Part 2](https://youtu.be/jdVrAb9kDRE) | [Part 3](https://youtu.be/gespJXNchAQ) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/43-react-jwt-auth)
 11. [Webpack, Babel, and You](https://youtu.be/_IyLbg1m2Ws) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/44-webpack-babel)
+12. [Higher Order Components (HOC)](https://youtu.be/J4LRT9qdPAM) | [Code](https://github.com/learn-co-students/nyc-mhtn-web-051418/tree/master/45-react-hoc) | [HOC from 042318](https://youtu.be/KZps-AJ3Pxo) | [Code from 042318](https://github.com/learn-co-students/nyc-mhtn-web-042318/tree/master/45-hoc)
